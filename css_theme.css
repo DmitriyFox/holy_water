@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'vezitcyr';
+    src: url('vezitcyr.eot');
+    src: url('fonts/vezitcyr.eot?#iefix') format('embedded-opentype'),
+         url('fonts/vezitcyr.woff2') format('woff2'),
+         url('fonts/vezitcyr.woff') format('woff'),
+         url('fonts/vezitcyr.ttf') format('truetype'),
+         url('FileName.svg#vezitcyr') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    font-family: 'vezitcyr';
+
+}
